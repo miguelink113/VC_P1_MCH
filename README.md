@@ -1,3 +1,4 @@
+Práctica de la asignatura de Visión por Computador realiza por Miguel Castellano Hernández, a partir del repositorio:  https://github.com/otsedom/otsedom.github.io/tree/main/VC/P1
 Se ha utilizado un environment de Anaconda con Python 3.11.5 (VC_P1_MCH).
 Se instalaron los paquetes opencv-python y matplotlib.
 
